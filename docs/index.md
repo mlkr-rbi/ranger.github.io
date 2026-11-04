@@ -9,6 +9,8 @@ The **Regulation & Genome Evolution Research** group focuses on understanding th
 ![Image title](images/EMBO_group_picture.jpg)
 At **EMBO Scientists’ Forum (ESF) 2026** in Sheraton Dubrovnik Riviera Hotel [October 28-30, 2026].
 
+![Image title](images/CroAGE_final_conference.jpg)
+On 30 June 2026, we had the pleasure of hosting the **CroAGE Project Final Conference** in Zagreb.
 
 ![Image title](images/groupPhoto.jpg)
 Group retreat in Zagreb.
