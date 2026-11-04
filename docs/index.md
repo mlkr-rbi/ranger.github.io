@@ -7,5 +7,10 @@ title: "Home"
 The **Regulation & Genome Evolution Research** group focuses on understanding the dynamic gene expression of proliferative stages and tissues in organisms across the tree of life. The group was established in 2024 at the [Ruđer Bošković Institute (RBI)](https://www.irb.hr/) within the Laboratory for Computational Biology and Translational Medicine, Division of Computing and Data Science.
 
 ![Image title](images/EMBO_group_picture.jpg)
+At **EMBO Scientists’ Forum (ESF) 2026** in Sheraton Dubrovnik Riviera Hotel [October 28-30, 2026].
+
+
+![Image title](images/groupPhoto.jpg)
+Group retreat in Zagreb.
 
 ![Image title](images/ranger_logo.png)
